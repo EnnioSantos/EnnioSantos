@@ -11,7 +11,7 @@
 Me chamo **Ennio**, tenho 28 anos e sou um profissional de TI. 💻
 
 - Formando em Engenharia Eletrica 🔌
-- Estudante de Ciencia de Dados 🎲
+- Estudante de Ciencia e Engenharia de Dados 🎲
 - Apaixonado por jogos 🎮
 
 ----
