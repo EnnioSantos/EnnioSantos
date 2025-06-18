@@ -13,10 +13,6 @@ Me chamo **Ennio**, tenho 28 anos e sou um profissional de TI. 💻
 - Estudante de Ciencia e Engenharia de Dados 🎲
 - Apaixonado por jogos 🎮
 
-----
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enniosantos&show_icons=true&theme=onedark&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=enniosantos&show_icons=true&show_icons=true&theme=onedark&count_private=true" />
-</div>
+
 
 
