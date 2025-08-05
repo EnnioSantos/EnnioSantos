@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "325">
+
 
 # Bem Vindos ao meu Github ヾ(•ω•`)o
 <div>
