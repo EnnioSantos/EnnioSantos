@@ -25,7 +25,7 @@ Meu objetivo é atuar com análise de dados e BI, contribuindo com soluções or
 | **JavaScript**       | Desenvolvimento                                     |
 | **Power BI (DAX/M)** | Visualização de dados, criação de KPIs              |
 | **Excel**            | Indicadores, análises e dashboards                   |
-|** Linux**            | Sistema Operacional
+|**Linux**            | Sistema Operacional
 ---
 
 ## Areas de Interesse
