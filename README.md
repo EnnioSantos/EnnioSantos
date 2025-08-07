@@ -37,31 +37,17 @@ Meu objetivo é atuar com análise de dados e BI, contribuindo com soluções or
 - Resolução Criativa de Problemas
 - Inteligencia Computacional
 - Algoritmos e Estruturas de Dados
-  
----
-
-## Notable Courses and Training
-
-- IBM z/OS Mainframe  
-- Micro Focus COBOL Fundamentals  
-- IBM watsonx.ai Technical Essentials  
-- Microsoft Azure AI & Security Fundamentals  
-- Clean Code, Design Patterns, Software Architecture & Modeling  
-- Extensive training in JCL, Mainframe Assembler, and COBOL modernization  
 
 ---
 
 ## Contact
 
 - ✉️ enniobernardo96@gmail.com  
-- 🌐 [www.fmarques.eti.br](http://www.fmarques.eti.br)
 
 
 ---
 
 ![Ennio dos Santos's Stats](https://github-readme-stats.vercel.app/api?username=enniodossantos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Ennio dos Santos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enniodossantos&theme=vue-dark&hide_border=true)
 
 ![Ennio dos Santos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enniodossantos&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
