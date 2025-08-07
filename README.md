@@ -47,7 +47,5 @@ Meu objetivo é atuar com análise de dados e BI, contribuindo com soluções or
 
 ---
 
-![Ennio dos Santos's Stats](https://github-readme-stats.vercel.app/api?username=enniodossantos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ![Ennio dos Santos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enniodossantos&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
